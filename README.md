@@ -1,6 +1,7 @@
 # the_self_taught_programmer (#Сам себе программист)
 by Cory Althoff
 
+
 | Оглавление | README           |
 |------------|------------------|
 | Глава 2    | [README.md][Ch2] |
@@ -8,7 +9,7 @@ by Cory Althoff
 | Глава 4    | [README.md][Ch4] |
 | Глава 5    | [README.md][Ch5] |
 | Глава 6    | [README.md][Ch6] |
-
+| Глава 7    | [README.md][Ch7] |
 
 
 [Ch2]: <chap2/README.md>
@@ -16,3 +17,4 @@ by Cory Althoff
 [Ch4]: <chap4/README.md>
 [Ch5]: <chap5/README.md>
 [Ch6]: <chap6/README.md>
+[Ch7]: <chap7/README.md>
