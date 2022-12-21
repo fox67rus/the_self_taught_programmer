@@ -1,6 +1,3 @@
-import math
-
-
 class Hexagon:
     def __init__(self, s1, s2, s3, s4, s5, s6):
         self.side1 = s1
