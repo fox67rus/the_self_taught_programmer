@@ -10,5 +10,3 @@
 - [Документация к Python](https://docs.python.org/3/)
 - [Краткий справочник Python](python-quick-ref.pdf)
 - [Stack over flow](https://stackoverflow.com/questions/tagged/python)
-
-
