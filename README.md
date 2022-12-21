@@ -29,13 +29,13 @@ by Cory Althoff
 
 
 
-[Ch4]: <chap4/README.md>
-[Ch5]: <chap5/README.md>
-[Ch6]: <chap6/README.md>
-[Ch7]: <chap7/README.md>
-[Ch7]: <chap7/README.md>
-[Ch8]: <chap8/README.md>
-[Ch9]: <chap9/README.md>
+[Ch4]: <chap04/README.md>
+[Ch5]: <chap05/README.md>
+[Ch6]: <chap06/README.md>
+[Ch7]: <chap07/README.md>
+[Ch7]: <chap07/README.md>
+[Ch8]: <chap08/README.md>
+[Ch9]: <chap09/README.md>
 [Ch10]: <chap10/README.md>
 [Ch11]: <chap11/README.md>
 [Ch12]: <chap12/README.md>
