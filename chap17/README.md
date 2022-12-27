@@ -72,6 +72,26 @@ $echo __привет__всем | grep -o __.*__
 С помощью нежадного поиска на  Python можно создать игру "Чепуха", где игроку предлагается вставить пропущенные в абзаце тексты слова.
 [Пример](ex281.py) 
 
+### Управляющие символы
+В РВ можно экранировать символы с помощью \ 
+```bash
+$echo я люблю $| grep \$
+>> я люблю $
+```
+[Пример](ex282.py) для Python
+
+### Инструмент для создания РВ
+
+[RegExr: Learn, Build, & Test RegEx](https://regexr.com/)
+
+[Python - Regular Expressions](https://www.tutorialspoint.com/python/python_reg_expressions.htm)
+
+Практикум:
+- [1](chap17_challege1.py)
+- [2](chap17_challege2.py)
+- [3](chap17_challege3.py)
+
+
 
 
 
