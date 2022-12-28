@@ -15,6 +15,7 @@ class Scraper:
         parser = "html.parser"
         sp = BeautifulSoup(html, parser)
         count = 0
+        url_list = []
         # поиск всех URL-адресов (тег <а>) в загруженном html-коде
         # при каждом прохождении цикла переменной tag присваивается значение нового объекта Tag, у которого есть
         # много переменных экземпляра класса, но выбирает только переменную href
@@ -25,10 +26,13 @@ class Scraper:
                 continue
 
             if "http" in url:
-                count +=1
-                print("\n" + url)
+                count += 1
+                url_list.append(url)
+                # print("\n" + url)
         print(count)
-
+        with open('file.txt', 'w') as f:
+            for link in url_list:
+                f.write(f"{link}\n")
 
 
 if __name__ == '__main__':
